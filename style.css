@@ -1,0 +1,52 @@
+body {
+    background-color: hsl(50, 25%, 50%);
+    font-family: Arial;
+}
+
+#barbarian {
+    background-color: hsl(18, 23%, 46%);
+}
+
+#bard {
+    background-color: hsl(119, 45%, 41%);
+}
+
+#cleric {
+    background-color: hsl(44, 74%, 57%);
+}
+
+#druid {
+    background-color: hsl(113, 37%, 55%);
+}
+
+#fighter {
+    background-color: hsl(216, 50%, 50%);
+}
+
+#monk {
+    background-color: hsl(172, 50%, 50%);
+}
+
+#paladin {
+    background-color: hsl(59, 43%, 62%);
+}
+
+#ranger {
+    background-color: hsl(19, 52%, 56%);
+}
+
+#rogue {
+    background-color: hsl(204, 64%, 74%);
+}
+
+#sorcerer {
+    background-color: hsl(36, 50%, 50%);
+}
+
+#warlock{
+    background-color: hsl(256, 23%, 46%);
+}
+
+#wizard {
+    background-color: hsl(110, 31%, 40%);
+}
