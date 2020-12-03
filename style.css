@@ -3,6 +3,22 @@ body {
     font-family: Arial;
 }
 
+article {
+    padding: 10px;
+}
+
+.styleleft {
+    margin-left: 60%;
+}
+
+.styleright {
+    margin-right: 60%;
+}
+
+.stylecenter {
+    margin-left: 30%;
+}
+
 #barbarian {
     background-color: hsl(18, 23%, 46%);
 }
